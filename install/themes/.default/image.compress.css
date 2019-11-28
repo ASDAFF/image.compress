@@ -1,0 +1,12 @@
+/*
+ * Copyright (c) 28/11/2019 Created By/Edited By ASDAFF asdaff.asad@yandex.ru
+ */
+
+/*Menu icon*/
+.compress_image_menu_icon {
+    background-image:url('icons/image.compress/image_compress.png');
+    background-position: 9px 4px;
+}
+#compress_image_menu_icon {
+    background-image:url('icons/image.compress/image_compress.png');
+}

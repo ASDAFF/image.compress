@@ -1,0 +1,33 @@
+<?
+/**
+ * Copyright (c) 28/11/2019 Created By/Edited By ASDAFF asdaff.asad@yandex.ru
+ */
+
+$MESS["IMAGE_COMPRESS_TITLE"] = "Файлы изображений";
+$MESS["IMAGE_COMPRESS_MODULE_ID"] = "Модуль";
+$MESS["IMAGE_COMPRESS_CONTENT_TYPE"] = "Тип";
+$MESS["IMAGE_COMPRESS_ORIGINAL_NAME"] = "Оригинальне имя";
+$MESS["IMAGE_COMPRESS_DESCRIPTION"] = "Описание";
+$MESS["IMAGE_COMPRESS_FILE_SIZE"] = "Размер";
+$MESS["IMAGE_COMPRESS_FILE_NAME"] = "Имя файла";
+$MESS["IMAGE_COMPRESS_IMAGE"] = "Изображение";
+$MESS["IMAGE_COMPRESS_MIME_PNG"] = "PNG";
+$MESS["IMAGE_COMPRESS_MIME_GIF"] = "GIF";
+$MESS["IMAGE_COMPRESS_MIME_JPG"] = "JPG";
+$MESS["IMAGE_COMPRESS_SIZE_BEFORE"] = "Размер до сжатия";
+$MESS["IMAGE_COMPRESS_SIZE_AFTER"] = "Размер после сжатия";
+$MESS["IMAGE_COMPRESS_FILTER_COMRESSED"] = "Сжат";
+$MESS["IMAGE_COMPRESS_FILTER_COMRESSED_Y"] = "Да";
+$MESS["IMAGE_COMPRESS_FILTER_COMRESSED_N"] = "Нет";
+$MESS["IMAGE_COMPRESS_COMRESSED"] = "Файл уже сжат";
+$MESS["IMAGE_COMPRESS_FILE_NOT_FOUND"] = "файл на диске не найден";
+
+$MESS["IMAGE_COMPRESS_FILTER_FILE_TYPE"] = "Тип файла";
+$MESS["IMAGE_COMPRESS_FILTER_FILE_NAME"] = "Имя файла";
+$MESS["IMAGE_COMPRESS_FILTER_ORIGINAL_NAME"] = "Оригинальное имя файла";
+$MESS["IMAGE_COMPRESS_FILTER_FILE_SIZE"] = "Размер файла";
+$MESS["IMAGE_COMPRESS_FILTER_ID"] = "ID файла";
+$MESS["IMAGE_COMPRESS_FILTER_MODULE_ID"] = "ID модуля";
+
+$MESS["IMAGE_COMPRESS_COMPRESS"] = "Сжать";
+$MESS["IMAGE_COMPRESS_DEFAULT_TEXT_ERRROR"] = "При сжатия произошла неизвестная ошибка!";
